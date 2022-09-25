@@ -1,2 +1,2 @@
-# course-electron
-Course NC Electron
+# Electron-ReactJS
+App Escritorio con Electron y React
